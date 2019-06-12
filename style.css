@@ -1,6 +1,4 @@
-* {
-    
-}
+
 header, nav, footer {
     padding: 20px 0px;
 }
@@ -76,14 +74,9 @@ aside {
     text-align: center;
 }
 
-h1 {
-  
-}
-
 footer {
     clear: both;
     background-color: #ebebeb;
-    margin-top: 100px;
     display: block;
     width: 100%;
 }
