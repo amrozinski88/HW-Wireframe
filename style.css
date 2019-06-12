@@ -16,7 +16,8 @@ body {
 #top {
     background-color: #ebebeb;
     padding: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
     text-align: center;
     width: 100%;
 }
@@ -35,7 +36,7 @@ section {
     background-color: #ebebeb;
     width: 495px;
     float: left;
-    margin-top: 30px;
+    margin-top: 20px;
     padding: 20px;
 }
 
@@ -65,15 +66,25 @@ h2{
 aside {
     background-color: #ebebeb;
     float: left;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-left: 20px;
-    width: 495px;
-    height: 400px;
-}
-
-.clear {
+    width: 380px;
+    height: 320px;
+    padding-right: 25px;
     display: block;
-    clear:auto
+    margin-bottom: 20px;
+    text-align: center;
 }
 
+h1 {
+  
+}
 
+footer {
+    clear: both;
+    background-color: #ebebeb;
+    padding: 20px;
+    margin-top: 100px;
+    display: block;
+    width: 100%;
+}
